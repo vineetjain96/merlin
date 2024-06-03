@@ -1,2 +1,9 @@
-# merlin
-Code for the paper Learning to Reach Goals via Diffusion.
+<div align="center">
+
+# Learning to Reach Goals via Diffusion
+
+</div>
+
+## Description
+
+Code will be released soon!
